@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm David de Leeuw van Weenen 👋
 
-<!--
-**Davey-80/Davey-80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com" alt="Davey-80" />
+</p>
 
-Here are some ideas to get you started:
+### 🚀 About Me
+Experienced enthusiast focused on **Linux**, **Homelab** environments, and **Smart Home Automation**. I enjoy architecting robust local networks and exploring the limits of self-hosting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🔭 **Current Project:** Deploying Proxmox on a Ugreen NAS to architect a high-performance home lab environment.
+*   ⚡ **Interests:** Networking (UniFi), Home Assistant, and Automation.
+*   📫 **Connect with me:** [Email](mailto:daviddlvw@gmail.com)
+
+---
+
+### 🛠 Tech Stack & Tools
+
+![Linux](https://shields.io)
+![Home Assistant](https://shields.io)
+![Proxmox](https://shields.io)
+![UniFi](https://shields.io)
+![Docker](https://shields.io)
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img height="180em" src="https://vercel.app" />
+<img height="180em" src="https://vercel.app" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Automating the world, one script at a time."</i>
+</p>
