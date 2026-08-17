@@ -9,7 +9,7 @@ Experienced enthusiast focused on **Linux**, **Homelab** environments, and **Sma
 
 *   🔭 **Current Project:** Deploying Proxmox on a Ugreen NAS to architect a high-performance home lab environment.
 *   ⚡ **Interests:** Networking (UniFi), Home Assistant, and Automation.
-*   📫 **Connect with me:** [Email](mailto:daviddlvw@gmail.com)
+*   📫 **Connect with me:** [Email](mailto:daviddlvw@proton.me)
 
 ---
 
