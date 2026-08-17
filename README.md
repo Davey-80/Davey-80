@@ -17,7 +17,7 @@ Experienced enthusiast focused on **Linux**, **Homelab** environments, and **Sma
 
 ![Linux](https://shields.io)
 ![Home Assistant](https://shields.io)
-![Proxmox](https://shields.io)
+![Proxmox](https://github.com/Davey-80/Ugreen-proxmox-homelab-setup)
 ![UniFi](https://shields.io)
 ![Docker](https://shields.io)
 
