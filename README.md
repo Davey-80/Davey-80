@@ -16,7 +16,7 @@ Experienced enthusiast focused on **Linux**, **Homelab** environments, and **Sma
 ### 🛠 Tech Stack & Tools
 
 ![Linux](https://shields.io)
-![Home Assistant]([![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)](https://github.com/Davey-80/home-assistant-reolink-doorbell-push))
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)](https://github.com/Davey-80/home-assistant-reolink-doorbell-push)
 ![Proxmox](https://github.com/Davey-80/Ugreen-proxmox-homelab-setup)
 ![UniFi](https://shields.io)
 ![Docker](https://shields.io)
