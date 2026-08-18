@@ -21,6 +21,18 @@ Experienced enthusiast focused on **Linux**, **Homelab** environments, and **Sma
 
 ---
 
+### 🚀 Featured Projects
+
+#### 🏠 Home Assistant
+[**Reolink PoE Doorbell Push Notifications**](https://github.com/Davey-80/home-assistant-reolink-doorbell-push)  
+Instant Android doorbell notifications with camera preview, live-view access, high-priority push and a custom ding-dong notification channel.
+
+#### 🖥️ Proxmox Homelab
+[**UGREEN Proxmox Homelab Setup**](https://github.com/Davey-80/Ugreen-proxmox-homelab-setup)  
+Proxmox-based homelab running on UGREEN NAS hardware, documenting the setup, configuration and self-hosted infrastructure.
+
+---
+
 <p align="center">
   <i>"Automating the world, one script at a time."</i>
 </p>
