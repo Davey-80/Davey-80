@@ -21,18 +21,6 @@ Experienced enthusiast focused on **Linux**, **Homelab** environments, and **Sma
 
 ---
 
-### 📊 GitHub Stats
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Davey-80&show_icons=true&hide_border=true" alt="David's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davey-80&layout=compact&hide_border=true" alt="David's most used languages" />
-</p>
-
----
-
----
-
 <p align="center">
   <i>"Automating the world, one script at a time."</i>
 </p>
