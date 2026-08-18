@@ -15,11 +15,11 @@ Experienced enthusiast focused on **Linux**, **Homelab** environments, and **Sma
 
 ### 🛠 Tech Stack & Tools
 
-![Linux](https://shields.io)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=home-assistant&logoColor=white)](https://github.com/Davey-80/home-assistant-reolink-doorbell-push)
-![Proxmox](https://github.com/Davey-80/Ugreen-proxmox-homelab-setup)
-![UniFi](https://shields.io)
-![Docker](https://shields.io)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+[![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white)](https://github.com/Davey-80/home-assistant-reolink-doorbell-push)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
+![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
