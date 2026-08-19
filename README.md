@@ -13,7 +13,7 @@ Experienced enthusiast focused on **Linux**, **Homelab** environments, and **Sma
 
 ### 🛠 Tech Stack & Tools
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://github.com/Davey-80/linux-nas-media-duplicate-finder)
 [![Home Assistant](https://img.shields.io/badge/Home%20Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white)](https://github.com/Davey-80/home-assistant-reolink-doorbell-push)
 [![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)](https://github.com/Davey-80/Ugreen-proxmox-homelab-setup)
 ![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
